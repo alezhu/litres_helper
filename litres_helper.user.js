@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LitRes Helper
 // @namespace    https://github.com/alezhu/litres_helper/
-// @version      0.1
+// @version      0.1.1
 // @description  LitRes Helper
 // @author       alezhu
 // @match        https://www.litres.ru/*
