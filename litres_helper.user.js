@@ -1,12 +1,15 @@
 // ==UserScript==
 // @name         LitRes Helper
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/alezhu/litres_helper/
 // @version      0.1
 // @description  LitRes Helper
 // @author       alezhu
 // @match        https://www.litres.ru/*
 // @grant        none
 // @run-at      document-start
+// @source      https://github.com/alezhu/litres_helper/raw/master/litres_helper.user.js
+// @updateURL   https://github.com/alezhu/litres_helper/raw/master/litres_helper.user.js
+// @downloadURL https://github.com/alezhu/litres_helper/raw/master/litres_helper.user.js
 // ==/UserScript==
 
 (function(global) {
